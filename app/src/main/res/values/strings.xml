@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="activity_detail_name">Popular Movies Detail</string>
+    <string name="popular_tab_name">popular</string>
+    <string name="favorites_tab_name">favorites</string>
+    <string name="top_rated_tab_name">top rated</string>
+    <string name="connect_to_network">Please Connect to a Network</string>
+    <string name="connect_to_watch">Please Connect to a Network to watch the videos</string>
+    <string name="refresh_is_running">Refresh is running</string>
+    <string name="refresh">Refresh</string>
+    <string name="cast_button">Cast</string>
+    <string name="review_button">Review</string>
+    <string name="video_button">Videos</string>
+    <string name="set_as_favorite_text">Set as favorite</string>
+    <string name="unset_as_favorite_text">Unset as favorite</string>
+
+    <string name="set_as_favorite_toast">is in favorites now</string>
+    <string name="unset_as_favorite_toast">is no longer in favorites</string>
+
+    <string name="review_by_string">Review by</string>
+    <string name="no_review_available">There is no review available</string>
+
+    <string name="sharing_videos">Sharing All Videos</string>
+    <string name="still_loading">Still loading Data</string>
+    <string name="no_favorites">You can add movies to your favorites
+    by clicking the star in them</string>
+    <string name="video">Video</string>
+    <string name="cast">cast</string>
+    <string name="backdrop_image">Backdrop image</string>
+    <string name="poster_image">Poster Image</string>
+
+
+</resources>
