@@ -181,7 +181,7 @@ public class DBOperations extends AsyncTask<Void, Void, Void> {
         final int MOVIE_ID = 0;
 
         String movieSelection = IS_FAVORITE_COLUMN + " = " + PMUtility.INT_YES + " AND " +
-                ID_COLUMN + " = " + Integer.toString(movieId);;
+                ID_COLUMN + " = " + Integer.toString(movieId);
 
         Cursor dbCursor = context.getContentResolver().query(
                 MoviesProvider.Movies.MOVIES,
